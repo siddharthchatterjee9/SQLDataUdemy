@@ -1,0 +1,2 @@
+DROP PROC MyFirstParamProcedure
+

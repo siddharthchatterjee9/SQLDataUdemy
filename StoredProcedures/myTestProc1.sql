@@ -1,0 +1,6 @@
+CREATE PROCEDURE myTestProc
+AS
+SET NOCOUNT ON
+SELECT * FROM Persons
+
+EXECUTE myTestProc
